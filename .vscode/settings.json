@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
         "exercise01"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
